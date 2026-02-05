@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg';
 import './App.css';
 
 function App() {
-        //Added comment to test git changes
+  //Added comment to test git changes
   const [count, setCount] = useState(0);
 
   return (
